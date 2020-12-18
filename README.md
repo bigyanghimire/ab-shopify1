@@ -1,3 +1,4 @@
+<strong>The app should be a copy of this https://www.loom.com/share/a51a39a324394bd5861d9eff09f4b9c2 </strong>
 <p align="center">
     <a href="https://windmillui.com/dashboard-react">
       <img alt="Windmill Dashboard React" width="600" src=".github/windmill-dashboard-react.png">
